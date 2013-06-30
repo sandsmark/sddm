@@ -13,6 +13,7 @@ set(DAEMON_SOURCES
     daemon/Display.cpp
     daemon/DisplayManager.cpp
     daemon/DisplayServer.cpp
+    daemon/DisplayWayland.cpp
     daemon/Greeter.cpp
     daemon/PowerManager.cpp
     daemon/Seat.cpp
